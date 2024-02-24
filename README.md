@@ -8,4 +8,5 @@ Pre-requisites:
 
 
 To run:
+> - cd src
 > - uvicorn main:app --reload
